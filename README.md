@@ -1,6 +1,6 @@
 # MyProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3. This is being used as a screening test project for hiring UI developers. This will help understand their ability to fork/clone a project, to be able to run and to be able to identify Typescript Do's and Don'ts and some basic coding skills.
 
 ## Development server
 
